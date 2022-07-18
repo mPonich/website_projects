@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "Objective";
+  src: local("Objective Black"), local("Objective-Black"),
+    url("font/Objective_Woff2/Objective-Bold.woff2") format("woff2"),
+    url("font/Objective_OTF/Objective-Bold.otf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Objective";
+  src: local("Objective Medium"), local("Objective-Medium"),
+    url("font/Objective_Woff2/Objective-Medium.woff2") format("woff2"),
+    url("font/Objective_OTF/Objective-Medium.otf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Objective";
+  src: local("Objective Regular"), local("Objective-Regular"),
+    url("font/Objective_Woff2/Objective-Regular.woff2") format("woff2"),
+    url("font/Objective_OTF/Objective-Regular.otf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Objective";
+  src: local("Objective Light"), local("Objective-Ligth"),
+    url("font/Objective_Woff2/Objective-Light.woff2") format("woff2"),
+    url("font/Objective_OTF/Objective-Light.otf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Objective";
+  src: local("Objective Thin"), local("Objective-Thin"),
+    url("font/Objective_Woff2/Objective-Thin.woff2") format("woff2"),
+    url("font/Objective_OTF/Objective-Thin.otf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
